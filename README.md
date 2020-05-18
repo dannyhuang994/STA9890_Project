@@ -1,7 +1,7 @@
 # STA9890_Project
 This contains the file and data set for a project in STA9890.
 
-Dataset can be found at [datasource](https://archive.ics.uci.edu/ml/machine-learning-databases/00363/).
+Original dataset can be found at [datasource](https://archive.ics.uci.edu/ml/machine-learning-databases/00363/).
 
 Data discription can be found [here](https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset) 
  
